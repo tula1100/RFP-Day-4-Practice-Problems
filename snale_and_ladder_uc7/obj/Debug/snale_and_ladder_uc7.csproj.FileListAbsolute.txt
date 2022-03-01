@@ -1,0 +1,8 @@
+E:\bridgelabz\RFP-Day-4-practice-problems\snale_and_ladder_uc7\bin\Debug\snale_and_ladder_uc7.exe.config
+E:\bridgelabz\RFP-Day-4-practice-problems\snale_and_ladder_uc7\bin\Debug\snale_and_ladder_uc7.exe
+E:\bridgelabz\RFP-Day-4-practice-problems\snale_and_ladder_uc7\bin\Debug\snale_and_ladder_uc7.pdb
+E:\bridgelabz\RFP-Day-4-practice-problems\snale_and_ladder_uc7\obj\Debug\snale_and_ladder_uc7.csproj.AssemblyReference.cache
+E:\bridgelabz\RFP-Day-4-practice-problems\snale_and_ladder_uc7\obj\Debug\snale_and_ladder_uc7.csproj.SuggestedBindingRedirects.cache
+E:\bridgelabz\RFP-Day-4-practice-problems\snale_and_ladder_uc7\obj\Debug\snale_and_ladder_uc7.csproj.CoreCompileInputs.cache
+E:\bridgelabz\RFP-Day-4-practice-problems\snale_and_ladder_uc7\obj\Debug\snale_and_ladder_uc7.exe
+E:\bridgelabz\RFP-Day-4-practice-problems\snale_and_ladder_uc7\obj\Debug\snale_and_ladder_uc7.pdb
